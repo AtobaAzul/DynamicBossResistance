@@ -9,9 +9,9 @@ api_version = 10
 dst_compatible = true
 all_clients_require_mod = true
 
-icon_atlas = "bookcd.xml"
-icon = "bookcd.tex"
-server_filter_tags = {"bookcd"}
+icon_atlas = "dbr_modicon.xml"
+icon = "dbr_modicon.tex"
+server_filter_tags = {"dbr", "Dynamic"}
 priority = -347
 
 local function Header(title)
